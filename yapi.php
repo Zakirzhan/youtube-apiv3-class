@@ -1,5 +1,5 @@
 <?php
-
+require_once('curl.php') //function for getting content via curl
 error_reporting(E_ALL);
 
 /*
